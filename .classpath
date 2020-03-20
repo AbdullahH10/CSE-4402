@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/RemObjects Software/Data Abstract for Java/Bin/com.remobjects.dataabstract.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/RemObjects Software/Data Abstract for Java/Bin/com.remobjects.dataabstract.swing.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/RemObjects Software/Data Abstract for Java/Bin/com.remobjects.sdk.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Downloads/Programs/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
